@@ -13,3 +13,9 @@
 
 #### (use process.nextTick,setImmediate,setInterval and setTimeout)
 
+## Writeups
+
+- Explain all the timers used. 
+- use reference on slide 2 of timers.pptx
+- phases of event loop from slide 4
+- 
